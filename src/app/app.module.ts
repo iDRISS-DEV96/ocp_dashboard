@@ -47,11 +47,8 @@ const config: SocketIoConfig = {
 @NgModule({
   declarations: [
     AppComponent,
-    // MatSidenavModule,
     TemperatureChartComponent,
-    // MyScatterChartComponent,
     VitesseChartComponent,
-    // PuissanceChartComponent,
     DebitChartComponent,
     PertesChartComponent,
     OcpNavBarComponent,
