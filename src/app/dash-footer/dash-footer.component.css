@@ -1,0 +1,33 @@
+.my-footer{
+  background: #4caf50;
+  color: white;
+}
+
+.my-footer a{
+  color: white;
+}
+.my-footer h3{
+
+  color: #1b5e20;
+}
+.example-spacer {
+  flex: 0.6 1 auto;
+
+}
+.line-list{
+  border-left: 1px solid white;
+  height: 150px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 1;
+}
+
+sub-footer p{
+  flex: 1 1 auto;
+
+}
+.sub-footer{
+  /*border-top: #4caf50 solid  1px;*/
+  background: #388e3c;
+}

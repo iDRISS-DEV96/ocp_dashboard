@@ -1,0 +1,8 @@
+mat-card{
+  width: 640px;
+  height: 390px;
+  padding-bottom: 45px;
+}
+mat-card-actions{
+  padding-top: 0px;
+}

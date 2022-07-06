@@ -1,0 +1,15 @@
+<mat-card>
+  <mat-card-title>Débit de vapeur vers turbine</mat-card-title>
+  <mat-card-subtitle>Unité: t/min</mat-card-subtitle>
+  <mat-card-actions>
+    <!--<div class="chart-container" >-->
+    <canvas id="debit" style="height:300px;width: 800px;margin-bottom: 10px" baseChart
+            [type]="'line'"
+            [datasets]="datasets"
+            [options]="options"></canvas>
+    <!--</div>-->
+  </mat-card-actions>
+</mat-card>
+
+
+

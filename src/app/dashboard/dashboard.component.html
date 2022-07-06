@@ -1,0 +1,17 @@
+<mat-grid-list cols="3" rowHeight="400px">
+  <mat-grid-tile colspan="2" rowspan="1">
+    <app-debit-chart ></app-debit-chart>
+  </mat-grid-tile>
+  <mat-grid-tile colspan="1" rowspan="1" class="temp">
+    <app-temperature-chart class="temp"></app-temperature-chart>
+  </mat-grid-tile>
+</mat-grid-list>
+
+<mat-grid-list cols="3" rowHeight="400px">
+  <mat-grid-tile colspan="1" rowspan="1" class="vit">
+    <app-vitesse-chart class="vit"></app-vitesse-chart>
+  </mat-grid-tile>
+  <mat-grid-tile colspan="2" rowspan="1">
+    <app-pertes-chart></app-pertes-chart>
+  </mat-grid-tile>
+</mat-grid-list>

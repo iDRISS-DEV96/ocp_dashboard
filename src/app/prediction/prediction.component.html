@@ -1,0 +1,15 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title>L'estimation de L'énergie Électrique Produit en (Mw/s)</mat-card-title>
+    <mat-card-subtitle>La prediction de la puissance qui va produire avec la valeur réelle</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+    <canvas id="Puissance_Prediction" width="768" height="384"
+            style="display: block; box-sizing: border-box; height: 384px; width: 768px;" baseChart
+            [type]="'line'"
+            [datasets]="datasets"
+            [options]="options">
+    </canvas>
+  </mat-card-content>
+</mat-card>
+

@@ -1,0 +1,19 @@
+
+<div class="vitesse-chart">
+  <h1>Vitesse de Turbine :</h1>
+  <mat-divider></mat-divider>
+  <ngx-charts-gauge
+    [view]="view"
+    [scheme]="colorScheme"
+    [results]="data"
+    [min]="0"
+    [max]="3031"
+    [angleSpan]="240"
+    [startAngle]="-120"
+    [units]="'Unite: tr/min'"
+    [bigSegments]="10"
+    [smallSegments]="3"
+    (select)="onSelect($event)">
+  </ngx-charts-gauge>
+
+</div>
