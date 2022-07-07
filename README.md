@@ -19,7 +19,6 @@ and the second part includes the artificial intelligence helps to estimate the q
 
 ## Technologie Used
 
-![home page of the project](/src/home-page.jpg)
 
 ## Running end-to-end tests
 
