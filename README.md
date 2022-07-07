@@ -1,6 +1,8 @@
-# ChartJs
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+# Project Overview
+this project aims to build an application that visualizes all the information needed in an all-in-one way, to improve decision-making and save 
+time and resources.this project is composed of three main parts:the first part is the  dashboard: which provides real-time data on the status of  PLC machines to allow the agents to decide for a small amount of time, 
+and the second part includes the artificial intelligence helps to estimate the quantity of  electric power that it will be produced, the last part is dedicated to visualizes the history of production.
+![Tux, the Linux mascot](/src/home-page.jpg)
 
 ## Development server
 
