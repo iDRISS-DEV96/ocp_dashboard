@@ -19,7 +19,7 @@ and the second part includes the artificial intelligence helps to estimate the q
 
 ## Technologie Used
 
-
+sss
 ## Running end-to-end tests
 
 
