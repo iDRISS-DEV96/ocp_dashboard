@@ -18,8 +18,7 @@ and the second part includes the artificial intelligence helps to estimate the q
 
 
 ## Technologie Used
-
-sss
+Angular JS in the front-end
 ## Running end-to-end tests
 
 
